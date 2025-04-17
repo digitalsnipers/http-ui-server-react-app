@@ -1,0 +1,26 @@
+.main_wrapper {
+  min-height: 100vh;
+  height: 100%;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.login {
+  display: flex;
+  flex-direction: column;
+  min-height: 250px;
+  height: 'auto';
+  min-width: 25vw;
+  border-radius: 3%;
+  margin-top: 100px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.cr{
+  font-size: small;
+  margin-top: 50px;
+  opacity: 0.6;
+}

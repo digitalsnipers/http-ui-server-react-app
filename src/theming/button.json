@@ -1,0 +1,20 @@
+{
+  "superdanger": {
+    "color": "white",
+    "paddingX": 12,
+    "paddingY": 8,
+    "borderRadius": 5,
+    "backgroundColor": "indianred",
+    "selectors": {
+      "_hover": {
+        "backgroundColor": "firebrick"
+      },
+      "_active": {
+        "backgroundColor": "darkred"
+      },
+      "_focus": {
+        "boxShadow": "0 0 0 2px lightcoral"
+      }
+    }
+  }
+}
